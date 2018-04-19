@@ -1,5 +1,5 @@
 # densecap-mAP
-densecap mAP evaludator (in python, pytorch)
+densecap mAP evaluator (in python, pytorch)
 (original code[lua, torch] : https://github.com/jcjohnson/densecap)
 
 dataset : visual genome
